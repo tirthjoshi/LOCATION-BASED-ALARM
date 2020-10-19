@@ -1,0 +1,19 @@
+# IntelliJ
+.idea
+
+# Android Studio configuration.
+*.iml
+
+# Gradle configuration.
+.gradle
+
+# User configuration.
+/local.properties
+
+
+/build
+/captures
+.externalNativeBuild
+
+# OS configurations.
+.DS_Store
